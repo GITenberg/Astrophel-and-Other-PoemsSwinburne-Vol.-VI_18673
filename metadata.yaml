@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/832
     wikipedia: http://en.wikipedia.org/wiki/Algernon_Swinburne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18673#Astrophel-and-Other-PoemsSwinburne-Vol.-VI
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2006-06-24'
 gutenberg_type: Text
